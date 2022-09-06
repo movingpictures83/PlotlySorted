@@ -1,0 +1,4 @@
+plotlyusername	druiz072
+plotlyapikey	Gnv8DXsx4cKYFt8uVD90
+csvfile	ABR_profile_sorted.csv
+columns	columns.txt
